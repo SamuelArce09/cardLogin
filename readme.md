@@ -1,0 +1,1 @@
+este ejecuta los estilos con sass es una card de inicio de sesion transparente con efectos de movimiento infinito
